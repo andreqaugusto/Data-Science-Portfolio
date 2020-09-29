@@ -1,0 +1,10 @@
+ area_terreno; area_construida; area_ocupada; ano_construcao_corrigido; quantidade_pavimentos; valor_venal; valor_m2_construcao;bairro; valor_iptu_ano; area_privativa; parkingspaces; bedrooms_estimado; bathrooms;condo;aluguel; Academia; Cafe; Farmacia; Padaria; Restaurantes; Shopping; Supermercado; area_comercial; area_industrial_logistico; area_outros; area_residencial; area_servico; caminhabilidade; distancia;metro_linha;metro_estacao
+1125;364;615;1970;17;1209670;2497;BAIRRO001;7838.55;230;2;4;3;2300;8481;11;1;2;10;20;0;1;0.85;0;0.76;88.6;9.79;Região com ruas íngremes;1169;LINHA001;ESTACAO001
+584;46;550;1974;16;122833;2139;BAIRRO001;561.597;25;0;1;1;629;1280;9;3;0;5;23;0;3;4.92;0.77;5.31;80.83;8.17;Áreas planas ou com declividades muito suaves;1042;LINHA001;ESTACAO001
+758;196;392;1970;11;578452;2139;BAIRRO001;2918.77;160;1;3;2;1482;4745;15;13;1;11;22;0;1;7.33;0.14;8.04;73.81;10.67;Região com leve declive;609;LINHA001;ESTACAO001
+1200;418;969;2010;22;1904910;2497;BAIRRO003;13854.3;280;4;3;4;2800;21199;17;4;2;7;39;0;1;6.29;0;9.74;78.09;5.87;Região Plana - Confortável para caminhar;1566;LINHA005;ESTACAO006
+630;134;310;1964;12;392124;2139;BAIRRO001;1202.53;96;0;2;2;1066;3211;20;9;2;10;34;0;3;10.58;0.16;7.87;67.83;13.55;Região com leve declive;447;LINHA001;ESTACAO001
+1042;102;336;1984;14;301043;2139;BAIRRO014;284.651;65;0;2;1;842;2097;17;11;1;3;40;0;2;7.52;0;2.79;77.65;12.05;Região com ruas íngremes;1419;LINHA003;ESTACAO012
+700;500;478;1996;10;3461140;3092;BAIRRO003;26495.6;279;4;3;5;3843;16052;22;4;0;3;9;0;2;7.23;0.23;1.63;78.93;11.98;Áreas planas ou com declividades muito suaves;1077;LINHA005;ESTACAO007
+1848;680;1456;2012;18;4438240;3092;BAIRRO001;36799.4;350;5;4;6;5270;13312;9;4;1;7;19;0;2;3.9;0;4.53;87.58;3.98;Região com ruas íngremes;987;LINHA001;ESTACAO001
+6393;2175;5173;1995;23;17050700;3599;BAIRRO008;162834;1288;6;4;6;11203;22811;9;3;0;7;22;0;2;2.96;0;7.49;79.32;10.23;Região Plana - Confortável para caminhar;1908;LINHA005;ESTACAO006
